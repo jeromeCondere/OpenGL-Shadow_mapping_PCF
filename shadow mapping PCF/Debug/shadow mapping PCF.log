@@ -1,0 +1,31 @@
+﻿La génération a démarré 08/07/2009 15:58:25.
+     1>Projet "C:\Users\shadow\documents\visual studio 2010\Projects\shadow mapping PCF\shadow mapping PCF\shadow mapping PCF.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\shadow mapping PCF.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D GLEW_STATIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FboDepth.cpp glsl.cpp main.cpp
+         main.cpp
+         Génération de code en cours...
+         Ignoré... (aucune modification pertinente détectée)
+         glsl.cpp
+         FboDepth.cpp
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D GLEW_STATIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt glew.c
+         glew.c
+       Link:
+         Toutes les sorties sont à jour.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\shadow\documents\visual studio 2010\Projects\shadow mapping PCF\Debug\shadow mapping PCF.exe" /NOLOGO glut32.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\shadow mapping PCF.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\shadow\documents\visual studio 2010\Projects\shadow mapping PCF\Debug\shadow mapping PCF.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\shadow\documents\visual studio 2010\Projects\shadow mapping PCF\Debug\shadow mapping PCF.lib" /MACHINE:X86 Debug\FboDepth.obj
+         Debug\glew.obj
+         Debug\glsl.obj
+         Debug\main.obj
+         LINK : C:\Users\shadow\documents\visual studio 2010\Projects\shadow mapping PCF\Debug\shadow mapping PCF.exe introuvable ou non généré par la dernière édition de liens incrémentielle ; édition de liens complète en cours
+         shadow mapping PCF.vcxproj -> C:\Users\shadow\documents\visual studio 2010\Projects\shadow mapping PCF\Debug\shadow mapping PCF.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\shadow\documents\visual studio 2010\Projects\shadow mapping PCF\Debug\shadow mapping PCF.exe;#1" /manifest "Debug\shadow mapping PCF.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\shadow mapping PCF.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\shadow mapping PCF.lastbuildstate".
+     1>Génération du projet "C:\Users\shadow\documents\visual studio 2010\Projects\shadow mapping PCF\shadow mapping PCF\shadow mapping PCF.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:03.25
